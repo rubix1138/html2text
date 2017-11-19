@@ -1,0 +1,4 @@
+[commands/html2text]
+access = read : [ * ], write : [ admin ]
+export = system
+
