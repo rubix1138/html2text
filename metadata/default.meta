@@ -1,4 +1,7 @@
-[commands/html2text]
+[commands]
 access = read : [ * ], write : [ admin ]
 export = system
 
+[searchbnf]
+access = read : [ * ], write : [ admin ]
+export = system
